@@ -6,7 +6,7 @@
 
 ## Escoraridade
 - Tecnico em Informática, Senac [2023 - 2025]
+- Ensino Medio Completo
 
 ## Cursos Livres
-- Exel, Senac Americana [24h]
-- Exel Avançado, Senac Americana [39h]
+- Editor de Video e Imagem
